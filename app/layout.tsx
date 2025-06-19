@@ -19,7 +19,6 @@ export const metadata: Metadata = {
     description: "Experience the future of mobile technology",
     type: "website",
   },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

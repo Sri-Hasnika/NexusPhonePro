@@ -80,7 +80,7 @@ export default function HeroSection({ selectedColor }: HeroSectionProps) {
           <Button
             variant="outline"
             size="lg"
-            className="border-white text-white hover:bg-white hover:text-black px-8 py-3 text-lg font-medium rounded-full"
+            className="border-white text-black hover:bg-white hover:text-black px-8 py-3 text-lg font-medium rounded-full"
           >
             Learn more
           </Button>
